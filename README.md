@@ -1,5 +1,2 @@
-# practicauno_fdp
-Practica uno de fundamentos de programación en laboratorio
-portada
-objetivo,introduccion
-conclusiones 
+# practicauno_fdp "la computacion como herramienta de trabajo del prefesional en ingenieria"
+Practica uno de fundamentos de programación en laboratorio 
